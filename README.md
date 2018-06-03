@@ -10,6 +10,7 @@
 * [MIT course](https://www.youtube.com/playlist?list=PLE7DDD91010BC51F8) Watch at 2x speed
 * [DL book: Chapter 2](http://www.deeplearningbook.org/contents/linear_algebra.html)
 * [cheatsheet](http://www.souravsengupta.com/cds2016/lectures/Savov_Notes.pdf)
+* [math notation cheat sheet](https://www.flickr.com/photos/95869671@N08/40544016221)
 
 Understand topics such as Principal Component Analysis (PCA), Singular Value Decomposition (SVD), Eigendecomposition of a matrix, LU Decomposition, QR Decomposition/Factorization, Symmetric Matrices, Orthogonalization & Orthonormalization, Matrix Operations, Projections, Eigenvalues & Eigenvectors, Vector Spaces and Norms.
 
@@ -51,49 +52,45 @@ Understand topics such as  Real and Complex Analysis (Sets and Sequences, Topolo
 * [DL book: Chapter 5](http://www.deeplearningbook.org/contents/ml.html)
 
 ## Week 3-4:
+* Kaggle
 * [ML Project Ideas](https://github.com/NirantK/awesome-project-ideas)
 
 ---
 
 # Month 3: Deep Learning (6 weeks)
 
-## Week 1 
-Intro to Deep Learning
-https://www.youtube.com/watch?v=vOppzHpvTiQ&list=PL2-dafEMk2A7YdKv4XfKpfbTH5z6rEEj3
-
-## Week 2 
-Deep Learning by Fast.AI
-http://course.fast.ai/
-
-## Week 3-4 
-Re-implement DL projects from my github
-https://github.com/llSourcell?tab=repositories
-
+[Fast.AI](http://course.fast.ai)
 
 ## Week 1: Feedforward Neural Networks and Backpropagation
 
-- Read Part I of the Deep Learning Book found [here](http://www.deeplearningbook.org/) 
-- Use this cheat sheet to help understand any math notation, found [here](https://www.flickr.com/photos/95869671@N08/40544016221)
-- Watch [Build a Neural Net in 4 Minutes](https://www.youtube.com/watch?v=h3l4qz76JhQ)
-- Read [Neural Net in 11 lines](https://iamtrask.github.io/2015/07/12/basic-python-network/) 
-- Type out the neural network code yourself in a text editor, compile, and run it locally (using no ML libraries)
-- Watch [Backpropagation in 5 minutes](https://www.youtube.com/watch?v=q555kfIFUCM)
+* [Deeplearning.ai: Course 1: Neural Networks and Deep Learning](https://www.youtube.com/playlist?list=PLkDaE6sCZn6Ec-XTbcX1uRg2_u4xOEky0)
+* Read [Efficient BackProp](http://yann.lecun.com/exdb/publis/pdf/lecun-98b.pdf) of Yann LeCun.
+* [DL book: Chapter 6](http://www.deeplearningbook.org/contents/mlp.html)
+* [Build a Neural Net from scratch](https://iamtrask.github.io/2015/07/12/basic-python-network/) ([Siraj](https://www.youtube.com/watch?v=h3l4qz76JhQ))
 
-## Week 2: Convolutional Networks
+## Week 2: Regularization and Optimization
 
-- Watch the Convolutional Networks Specialization on Coursera, found [here](https://www.coursera.org/learn/convolutional-neural-networks). 
-- Read all 3 lecture notes under Module 2 for Karpathy CNN course found [here](http://cs231n.github.io/)
-- Watch my video on CNNs [here](https://www.youtube.com/watch?v=FTr3n7uBIuE&t=1782s) and [here](https://www.youtube.com/watch?v=cAICT4Al5Ow&t=4s)
-- Write out a simple CNN yourself (using no ML libraries)
+* [Deeplearning.ai: Course 2: Improving deep neural networks: hyperparameter tuning, regularization and optimization](https://www.youtube.com/playliOptimizationst?list=PLkDaE6sCZn6Hn0vK8co82zjQtt3T2Nkqc)
+* [DL book: Chapter 7: Regularization](http://www.deeplearningbook.org/contents/regularization.html)
+* [DL book: Chapter 8: Optimization](http://www.deeplearningbook.org/contents/mlp.html)
+* [Deeplearning.ai: Course 3: Structuring Machine Learning Projects](https://www.youtube.com/playlist?list=PLkDaE6sCZn6E7jZ9sN_xHwSHOdjUxUW_b)
 
-## Week 3: Recurrent Networks
+## Week 3: Convolutional Networks
 
-- Watch the Sequence Models Specialization on Coursera, found [here](https://www.coursera.org/learn/nlp-sequence-models)
-- Watch my videos on recurrent networks, [here](https://www.youtube.com/watch?v=BwmddtPFWtA&t=4s), [here](https://www.youtube.com/watch?v=cdLUzrjnlr4), and [here](https://www.youtube.com/watch?v=9zhrxE5PQgY&t=25s)
-- Read Trask's blogpost on LSTM RNNs found [here](https://iamtrask.github.io/2015/11/15/anyone-can-code-lstm/)
-- Write out a simple RNN yourself (using no ML libraries)
+* [Deeplearning.ai: Course 4: CNN](https://www.youtube.com/playlist?list=PLkDaE6sCZn6Gl29AoE31iwdVwSG-KnDzF)
+* Read all 3 lecture notes under Module 2 for Karpathy CNN course found [here](http://cs231n.github.io/)
+* Watch Siraj video on CNNs [here](https://www.youtube.com/watch?v=FTr3n7uBIuE&t=1782s) and [here](https://www.youtube.com/watch?v=cAICT4Al5Ow&t=4s)
+* Write out a simple CNN from scratch
+* [DL book: Chapter 9: Convolutional Networks](http://www.deeplearningbook.org/contents/convnets.html)
 
-## Week 4: Tooling
+## Week 4: Recurrent Networks
+
+* Deeplearning.ai: Course 5: Sequence Models [Youtube](https://www.youtube.com/playlist?list=PLBAGcD3siRDittPwQDGIIAWkjz-RucAc7), [Coursera](https://www.coursera.org/learn/nlp-sequence-models)
+* Watch my videos on recurrent networks, [here](https://www.youtube.com/watch?v=BwmddtPFWtA&t=4s), [here](https://www.youtube.com/watch?v=cdLUzrjnlr4), and [here](https://www.youtube.com/watch?v=9zhrxE5PQgY&t=25s)
+* Read Trask's blogpost on LSTM RNNs found [here](https://iamtrask.github.io/2015/11/15/anyone-can-code-lstm/)
+* Write out a simple RNN yourself (using no ML libraries)
+
+## Week 4: Tensorflow
 
 - Watch CS20 (Tensorflow for DL research). Slides are [here](http://web.stanford.edu/class/cs20si/syllabus.html). Playlist is [here](https://www.youtube.com/watch?v=g-EvyKpZjmQ&list=PLDuNt91tg0urwwTQNKyUbncSDvMEl74ww)
 - Watch my intro to tensorflow playlist [here](https://www.youtube.com/watch?v=2FmcHiLCwTU&list=PL2-dafEMk2A7EEME489DsI468AB0wQsMV)
@@ -126,3 +123,7 @@ Heroku: Use as webapp.
 * [Hacker news](https://news.ycombinator.com/jobs)
 * [Talent hackers](https://www.talenthackers.net)
 
+---
+
+#
+* [Udacity: Intro to Parallel Programming CUDA](https://www.youtube.com/playlist?list=PLGvfHSgImk4aweyWlhBXNF6XISY3um82_)

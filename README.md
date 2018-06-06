@@ -7,6 +7,7 @@
 
 ## Week 1: Linear Algebra
 * [3Blue1Brown: Essence of linear algebra](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)
+* Fast.ai Computational Linear Algebra [Textbook 2017](https://github.com/fastai/numerical-linear-algebra) and [Videos 2017](https://www.youtube.com/playlist?list=PLtmWHNX-gukIc92m1K0P6bIOnZb-mg0hY). [Textbook 2018](https://github.com/fastai/numerical-linear-algebra-v2)
 * [MIT course](https://www.youtube.com/playlist?list=PLE7DDD91010BC51F8) Watch at 2x speed
 * [DL book: Chapter 2](http://www.deeplearningbook.org/contents/linear_algebra.html)
 * [cheatsheet](http://www.souravsengupta.com/cds2016/lectures/Savov_Notes.pdf)
